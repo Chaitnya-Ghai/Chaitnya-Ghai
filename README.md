@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitnya-ghai&label=Profile%20views&color=0e75b6&style=flat" alt="chaitnya-ghai" /> </p>
 
-- 🌱 I’m currently learning **Firebase, Retrofit2, and AI Integration in Android**
+- 🌱 Working with **Firebase, Retrofit2, Jetpack Compose, XML, Kotlin | 🚀 MVVM, Coroutines, RoomDatabase, Flow, State**
 -  🤖 Exploring **AI Integration in Android using ML Kit, TensorFlow Lite, and OpenAI APIs**
 
 - 📫 How to reach me **chaitnyaghai2004@gmail.com**
