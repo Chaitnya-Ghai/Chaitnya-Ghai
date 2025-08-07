@@ -83,5 +83,7 @@
 </p>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+<div style="border-radius: 12px; overflow: hidden; width: fit-content; background: transparent;">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=chaitnya-ghai&theme=default&hide_border=false&background=00000000" alt="GitHub Streak Stats" />
+</div>
 </p>
