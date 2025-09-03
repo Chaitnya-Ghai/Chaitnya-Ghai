@@ -11,7 +11,7 @@
 - 🚀 Building robust apps using **MVVM, Coroutines, Room DB, Flow, and State**  
 - 🔧 Exploring **Ktor** for backend integration in Android projects  
 - ⚛️ Recently started learning **React** to expand into full-stack development  
-- 📫 Reach me at: **chaitnyaghai2004@gmail.com**
+- 📫 Reach me at: **chaitnyaghai2004@gmail.com** OR **chaitnyaghai79@gmail.com**
 
 ---
 
